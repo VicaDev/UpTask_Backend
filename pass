@@ -1,0 +1,5 @@
+password: biNwrASaaPmsbeAQ
+user: root
+ip: 212.97.88.91/32
+
+mongodb+srv://root:<password>@cluster0.gfs8wnu.mongodb.net/
